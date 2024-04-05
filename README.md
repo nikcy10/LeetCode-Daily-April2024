@@ -8,9 +8,11 @@ This repository contains solutions to LeetCode's Daily Questions for the month o
 
 2. Isomorphic Strings [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/02%20-%20205.%20Isomorphic%20Strings.java) | [Link To The Problem](https://leetcode.com/problems/isomorphic-strings/)
    
-3. Word Search [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/03%20-%2079.%20Word%20Search.java) | [Link To The Problem](https://leetcode.com/problems/word-search/)4
+3. Word Search [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/03%20-%2079.%20Word%20Search.java) | [Link To The Problem](https://leetcode.com/problems/word-search/)
 
 4. Maximum Nesting Depth of the Parentheses [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/04%20-%201614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.java) | [Link To The Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+   
+5. Make the String Great [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/05%20-%201544.%20Make%20The%20String%20Great.java) | [Link To The Problem](https://leetcode.com/problems/make-the-string-great/description/)
 
 ## Why Did I Create This?
 
