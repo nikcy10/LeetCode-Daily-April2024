@@ -13,6 +13,8 @@ This repository contains solutions to LeetCode's Daily Questions for the month o
 4. Maximum Nesting Depth of the Parentheses [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/04%20-%201614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.java) | [Link To The Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
    
 5. Make the String Great [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/05%20-%201544.%20Make%20The%20String%20Great.java) | [Link To The Problem](https://leetcode.com/problems/make-the-string-great/description/)
+   
+6. Make the String Great [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/06%20-%201249.%20Minimum%20Remove%20to%20Make%20Valid%20Parantheses.java) | [Link To The Problem](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
 ## Why Did I Create This?
 
