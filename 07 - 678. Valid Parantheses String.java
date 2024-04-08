@@ -27,8 +27,3 @@ class Solution {
         return minLeftCount == 0;
     }
 }
-
-
-        return minLeftCount == 0;
-    }
-}
