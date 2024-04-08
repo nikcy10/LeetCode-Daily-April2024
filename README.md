@@ -16,7 +16,7 @@ This repository contains solutions to LeetCode's Daily Questions for the month o
    
 6. Minimum Remove to Make Valid Parentheses [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/06%20-%201249.%20Minimum%20Remove%20to%20Make%20Valid%20Parantheses.java) | [Link To The Problem](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
    
-7. Valid Parenthesis String [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/06%20-%201249.%20Minimum%20Remove%20to%20Make%20Valid%20Parantheses.java) | [Link To The Problem](https://leetcode.com/problems/valid-parenthesis-string/description/)
+7. Valid Parenthesis String [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/07%20-%20678.%20Valid%20Parantheses%20String.java) | [Link To The Problem](https://leetcode.com/problems/valid-parenthesis-string/description/)
 
 ## Why Did I Create This?
 
