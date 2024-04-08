@@ -14,7 +14,9 @@ This repository contains solutions to LeetCode's Daily Questions for the month o
    
 5. Make the String Great [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/05%20-%201544.%20Make%20The%20String%20Great.java) | [Link To The Problem](https://leetcode.com/problems/make-the-string-great/description/)
    
-6. Make the String Great [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/06%20-%201249.%20Minimum%20Remove%20to%20Make%20Valid%20Parantheses.java) | [Link To The Problem](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+6. Minimum Remove to Make Valid Parentheses [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/06%20-%201249.%20Minimum%20Remove%20to%20Make%20Valid%20Parantheses.java) | [Link To The Problem](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+   
+7. Valid Parenthesis String [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/06%20-%201249.%20Minimum%20Remove%20to%20Make%20Valid%20Parantheses.java) | [Link To The Problem](https://leetcode.com/problems/valid-parenthesis-string/description/)
 
 ## Why Did I Create This?
 
