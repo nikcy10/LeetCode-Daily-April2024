@@ -21,6 +21,8 @@ This repository contains solutions to LeetCode's Daily Questions for the month o
 8. Number of Students Unable to Eat Lunch [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/08%20-%201700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch.java) | [Link To The Problem](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
    
 9.  Time Needed to Buy Tickets [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/09%20-%202073.%20Time%20Needed%20to%20Buy%20Tickets.java) | [Link To The Problem](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)
+    
+10. Reveal Cards In Increasing Order [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/10.%20950.%20Reveal%20Cards%20In%20Increasing%20Order.java) | [Link To The Problem](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
 
 ## Why Did I Create This?
 
