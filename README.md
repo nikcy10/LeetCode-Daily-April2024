@@ -25,6 +25,8 @@ This repository contains solutions to LeetCode's Daily Questions for the month o
 10. Reveal Cards In Increasing Order [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/10.%20950.%20Reveal%20Cards%20In%20Increasing%20Order.java) | [Link To The Problem](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
     
 11. Remove K Digits [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/11%20-%20402.%20Remove%20K%20Digits.java) | [Link To The Problem](https://leetcode.com/problems/remove-k-digits/)
+    
+12. Trapping Rain Water [My Solution](https://github.com/nikcy10/LeetCode-Daily-April2024/blob/main/11%20-%2042.%20Trapping%20Rain%20Water.java) | [Link To The Problem](https://leetcode.com/problems/trapping-rain-water/)
 
 ## Why Did I Create This?
 
